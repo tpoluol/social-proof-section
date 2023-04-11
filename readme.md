@@ -22,7 +22,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ## **Built With**
 
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=TailwindCss&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=TailwindCss&logoColor=white)
+- ![FlexBox](https://img.shields.io/badge/Flexbox-006600.svg?style=for-the-badge&logoColor=white)
 
 <br>
 
