@@ -1,8 +1,8 @@
 export default function Profile({ data, index }) {
   const imgVariants = {
-    Colton: 'image-colton.jpg',
-    Irene: 'image-irene.jpg',
-    Anne: 'image-anne.jpg',
+    Colton: '/image-colton.jpg',
+    Irene: '/image-irene.jpg',
+    Anne: '/image-anne.jpg',
   };
 
   const indVariants = {

@@ -1,4 +1,4 @@
-import star from '/icon-star.svg';
+import star from '../assets/icon-star.svg';
 
 export default function Star({ content, index }) {
   const indVariants = {
