@@ -6,7 +6,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## **Preview**
 
-<div align='center'>
+<div align='start'>
 <img src="./public/desktop-design.JPG">
 <img src="./public/mobile-design.JPG" width="100">
 </div>
