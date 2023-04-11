@@ -8,7 +8,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 <div align='center'>
 <img src="./public/desktop-design.JPG">
-<img src="./public/mobile-design.JPG">
+<img src="./public/mobile-design.JPG" width="100">
 </div>
 
 <br>
